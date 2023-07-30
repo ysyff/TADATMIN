@@ -6,7 +6,7 @@ format data using .xls extension
 if u want sample data contact me on yusufsyah01@gmail.com
 
 ## Dashboard Page
-![image](https://github.com/ysyff/TADATMIN/assets/80713883/e075901b-c8bd-4b92-b3e4-38140c8b0ebf)
+![image](https://github.com/ysyff/TADATMIN/assets/80713883/4ee50f4b-1e1e-435c-942b-a2561311b275)
 
 ## Data Page
 ![image](https://github.com/ysyff/TADATMIN/assets/80713883/23ac12fe-fd86-4682-a8e9-c734d9b8cb45)
@@ -16,4 +16,8 @@ if u want sample data contact me on yusufsyah01@gmail.com
 
 ## Minning Page
 ![image](https://github.com/ysyff/TADATMIN/assets/80713883/6dcf4031-d1f3-43d1-86a6-1089eca08835)
+
+User Level Login, users can only access the dashboard page
+![image](https://github.com/ysyff/TADATMIN/assets/80713883/2d06ffe7-d5ed-448b-9c1b-150f71dd2d39)
+
 
