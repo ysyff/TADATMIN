@@ -3,7 +3,32 @@
 this apps using php with datatable and excel to importing data
 format data using .xls extension
 
-if u want sample data contact me on yusufsyah01@gmail.com
+2 level users
+ admin = Admin level can access all features
+
+ list user
+ username and password for admin
+ admin admin
+
+username and paswword for user
+user user
+
+## Installation
+Open your favorite Terminal and run these commands.
+
+First Tab:
+
+```sh
+git clone https://github.com/ysyff/TADATMIN.git
+```
+
+Change directory where you clone it:
+
+```sh
+cd (directory)
+```
+
+
 
 ## Dashboard Page
 ![image](https://github.com/ysyff/TADATMIN/assets/80713883/4ee50f4b-1e1e-435c-942b-a2561311b275)
